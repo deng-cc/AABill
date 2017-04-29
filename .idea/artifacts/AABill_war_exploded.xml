@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="AABill:war exploded">
+    <output-path>$PROJECT_DIR$/src/main/webapp</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="AABill" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="AABill/web/Web" />
+    </root>
+  </artifact>
+</component>
