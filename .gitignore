@@ -1,0 +1,22 @@
+#idea
+*.iml
+*.ipr
+*.iws
+*.bak
+/.idea/*
+
+
+#common
+*.class
+*.jar
+
+
+#other
+*.md.bak
+
+#compiled files
+/lib/*
+/target/*
+/src/main/test/*
+/src/main/webapp/WEB-INF/classes/*
+/src/main/webapp/WEB-INF/lib/*
